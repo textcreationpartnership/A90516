@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuntius a mortuis: or, a messenger from the dead. That is, a stupendous and dreadfull colloquie, distinctly and alternately heard by divers, betwixt the ghosts of Henry the Eight, and Charles the First, both Kings of England, who lye entombed in the church of Windsor. Wherein, (as with a pencill from heaven) is liquidly (from head to foot) set forth, the whole series of the judgements of God, upon the sinnes of these unfortunate jslands. Translated out of the Latine copie, by G.T.</title>
+            <title>Nuntius a mortuis. English</title>
+            <author>Perrinchief, Richard, 1623?-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90516</idno>
+            <idno type="STC">Wing P1599A</idno>
+            <idno type="STC">ESTC R229647</idno>
+            <idno type="EEBO-CITATION">99895333</idno>
+            <idno type="PROQUEST">99895333</idno>
+            <idno type="VID">152699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2317:1c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nuntius a mortuis: or, a messenger from the dead. That is, a stupendous and dreadfull colloquie, distinctly and alternately heard by divers, betwixt the ghosts of Henry the Eight, and Charles the First, both Kings of England, who lye entombed in the church of Windsor. Wherein, (as with a pencill from heaven) is liquidly (from head to foot) set forth, the whole series of the judgements of God, upon the sinnes of these unfortunate jslands. Translated out of the Latine copie, by G.T.</title>
+                  <title>Nuntius a mortuis. English</title>
+                  <author>Perrinchief, Richard, 1623?-1673.</author>
+                  <author>Henry VIII, King of England, 1491-1547.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[6], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>And printed at Paris :</pubPlace>
+                  <date>MDCLVII. [1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Latin verse on p. 32 signed: R.P., i.e. Richard Perrinchief.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2317 bound and filmed after both: Cooke, Edward. Certain passages which happened at Newport, (Wing C5997). And: Raleigh, Carew. Observations upon some particular persons and passages (Wing R149).</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Henry VIII, 1509-1547 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1509-1547 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:152699:1" rendition="simple:additions"/>
+            <pb facs="tcp:152699:1" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Ourteous Reader:</hi> Thou wilt won<g ref="char:EOLhyphen"/>der perhaps, that this Terrible Nar<g ref="char:EOLhyphen"/>ration of a Colloquie, ſo full of dread and aſtoniſhment (long ſince had be<g ref="char:EOLhyphen"/>twixt two Kings of <hi>England,</hi> both Deceaſed) ſhould not ſooner have come forth, when (in the intervall of ſo Great a tract of Time) it ought ra<g ref="char:EOLhyphen"/>ther to have been put to the Preſſe. But thou muſt know it was then ſtrangled in its Birth (all ready fitted by me to have come into the Light) when (the late Kings Blood yet ſmoaking) the Severity of the times ſuppreſſed it; Divers alſo were ſhut up cloſe Priſoners leaſt the Truth of ſuch ſtrange Prodigies ſhould walke abroad with them, And the Souldiers largely brib'd who watch'd his Herſe, not to let any thing of that Quality fall from them; But now it is by Gods infinite goodneſs (nor un<g ref="char:EOLhyphen"/>happie
+<pb facs="tcp:152699:2"/>(as J may ſay) Midwifrie of mine) that againe it Reſaluteth the Day, with recommendati<g ref="char:EOLhyphen"/>on to bee Communicatively uſed by the —: However to my ſelfe the Author who was preſent at the late Kings Buriall, and both Eye and Eare<g ref="char:EOLhyphen"/>witneſs of theſe wonders, not as vaine and only forg'd things ſpeaking (like to Poets) give thou Credit and Beliefe; But as tracing through thoſe Dead Kings Colloquies (in this Kingdome fill'd with helliſh darkneſs) the true and hidden Pathes of Gods just vengeance. Farewell, and as thy Brother in <hi>CHRIST,</hi> Pray for,</p>
+            <closer>
+               <signed>Thy, &amp;c.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152699:2"/>
+            <head>NUNTIUS a MORTUIS: <hi>OR,</hi> A Meſſenger from the Dead.</head>
+            <p>THrough the unlimited wickedneſs of the <hi>London.</hi> Calviniſts (the firſt of that Name in <hi>England</hi>) King CHARLES being taken away, His head<g ref="char:EOLhyphen"/>leſs Body (by order of Parliament (not to the Royall Abbey of St. <hi>Peter</hi> in <hi>Weſtminſter,</hi> the ſolemne Bu<g ref="char:EOLhyphen"/>riall-place of all the Kings and Queenes of <hi>England,</hi> but to <hi>Windſor</hi> twenty miles diſtant from <hi>London,</hi> in HENRY the Eight's Monument) was Tranſlated to bee interred. There was no Pompe at all to grace his Funerall, only a few Souldiers ſent to Guard his Body, which ſome few Nobles (with the Duke of <hi>Richmond</hi>) waited on; where his Corpes being put into the Sepulcher, from out the Penetrall thereof there broke a horrid Sound, which the ſtanders by at firſt a<g ref="char:EOLhyphen"/>maz'd with much wonder; But by and by a voyce attending that Noiſe, forc'd them All into a fearefull aſtoniſhment. And it is Credible, that ev'n the Souldiers would have taken their Heeles, but that caſting away all feares and Apprehenſion which they had long ſince layd aſide of either Heaven or Hell; They reſolv'd to heare the ſequell of that Prodigie; J alſo who (growne Pale with feare) had begun to flie, Recollected my Spirits, and (comforting my ſelfe with the preſence of the Souldiers, not uncovetous of Hearing what would follow) ſtood my ground; And with the reſt at laſt diſcovered that it was the Voice of <hi>Henry</hi> the Eight, thus complaining with a Loud and horridly frightfull Vocifiration.</p>
+            <sp>
+               <pb n="2" facs="tcp:152699:3" rendition="simple:additions"/>
+               <speaker>Henricus.</speaker>
+               <p>HO! Who is this (with Sacraligious impietie) that dares vex the ſo long quiet aſhes of a King ſo many years ſince deceaſed. This ſaid, another voice ſtraight roſe ſomewhat ſofter, but extreamly Dole<g ref="char:EOLhyphen"/>full, which ſeem'd to be Kings <hi>Charles</hi> his, thus An<g ref="char:EOLhyphen"/>ſwering.</p>
+            </sp>
+            <sp>
+               <speaker>Carolus.</speaker>
+               <p>I Am that unhappie King of <hi>England</hi> your Succeſ<g ref="char:EOLhyphen"/>ſor, the undoubted Heire of Sixty two Monarchs whoſe Scepters ſometimes ſway'd theſe Nations, and who my Selfe have (now theſe twenty yeares and upwards) worne the Kingly Diadem.</p>
+            </sp>
+            <sp>
+               <speaker>Henricus.</speaker>
+               <p>As though thou indeed hadſt worne the kingly Diadem? Why thou haſt no Head at all whereon to put it, Man.</p>
+            </sp>
+            <sp>
+               <speaker>Carolus.</speaker>
+               <p>But I had one (oh my Griefe) and very lately, though my Subjects have rebelliouſly taken it from me.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>Have thy Subjects then thus cruelly han<g ref="char:EOLhyphen"/>dled thee, oh the hatred of both God and Men! How I pray you came theſe things to paſſe? And what wickedneſs hadſt thou done ſo execrable which hath tranſported thy Subjects to that Madneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Garol.</speaker>
+               <p>That Sir, I am totally ignorant of; but this I dare with confidence affirme, That I have violated no mans Bed, have not offerd force unto any on's Daughter, driven no man from his houſe or Lands; of all which, yet <hi>Henry</hi> the Eight my Predeceſſor is held
+<pb n="3" facs="tcp:152699:3" rendition="simple:additions"/>guilty through the totall univerſe. Let theſe ſay who have brought me hither whether in any thing I have bely'd the Truth? then paus'd a while as though to heare what they would ſay, whileſt the Soldiers (with their looks caſt downe) conſented by their Silence to theſe verities. And moſt true it is (indeed) what hath been ſaid; for never King ſince the worlds Creation was more wicked then that <hi>Henry</hi> I ſpeake of, as who (councell'd by one CROMVVELL of thoſe Times) ei<g ref="char:EOLhyphen"/>ther violated all Divine and humane Lawes, or gave the example to his ſucceſſors of doing ſo. But as for <hi>Charles</hi> who is ſo lately deceaſed (only abſtracting from the Blot of Heriſie) no King ever (not only of his time) nor Private man was either naturally more equitable, more holy, or endow'd with greater Vertues, who (not finding what he ſaid oppoſed) in this maner follow'd on his Narration; I was criminated for defen<g ref="char:EOLhyphen"/>ding with Armes what peaceably (but in vaine) J had endeavoured) thoſe very Lawes the which my Ance<g ref="char:EOLhyphen"/>ſtors had left to me, and which Sixteen and upwards of yeares, I had uncontroledly Rul'd by and Reign'd. Hereupon were there Iudges appointed (by an uſurped authority of Parliament) who ſhould ſit and deter<g ref="char:EOLhyphen"/>mine of my Head, witneſſes againſt me ſworne and examined, who had conſpired to take away my Life; The day ſet downe and forces brought the w<hi rend="sup">ch</hi> ſhould carry me to be arraigned before their Dire Tribunall, and though I call'd both God and men to witneſs their violation (in this proceeding) of the Lawes, and that no Power on earth was capable of judging me; as al<g ref="char:EOLhyphen"/>ſo that I tooke not up Armes, before that Armes had firſt been actually taken againſt me; yet Iudgement
+<pb n="4" facs="tcp:152699:4" rendition="simple:additions"/>or rather the ſhadow thereof) was given by which J ſuffered the decollation of my Head.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>Oh wickedneſs, even ſear'd to impudence, and of which as ages paſt are wholly ignorant, ſo thoſe to come will hardly ever give credit to. Wee have heard perhaps of Kings and Potentates, who have ſuddenly been oppreſſed by the Fury of a Raging and incenſed multitude; But that any one (a Prince of ſuch High majeſty) ſhould be brought to death by the cruelty of his Subjects (all of one and the ſelfe<g ref="char:EOLhyphen"/>ſame Religion) under the colour ev'n it ſelfe of ju<g ref="char:EOLhyphen"/>ſtice, and be obtruncated by the publique Hangman, (but eſpecially not found guilty of any crime, unleſſe propugning his Paternall Rights.) Since Kings had be<g ref="char:EOLhyphen"/>ing was yet never heard of. For (that <hi>Mary</hi> Queen of <hi>Scots</hi> that Neice of mine, was moſt cruelly and inhu<g ref="char:EOLhyphen"/>manely Beheaded) that <hi>Elizabeth</hi> my unhappie daughter Queene of <hi>England</hi> (and in hatred of Reli<g ref="char:EOLhyphen"/>gion not the unnaturalneſs of her Subjects brought to paſſe; and therefore all men have that <hi>Izabell</hi> or ra<g ref="char:EOLhyphen"/>ther <hi>Jezabell</hi> in veneration, as though indeed a Mar<g ref="char:EOLhyphen"/>tyr.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>Leaſt I ſhould ſeeme too much to ſtand up<g ref="char:EOLhyphen"/>on my innocence, I confeſſe I was to blame (although not charg'd therewith) when I aſſented unto <hi>Straf<g ref="char:EOLhyphen"/>fords</hi> dying (not leaſt guilty on my knowledge of his Charge) through the lenitie of my Nature (though unwillingly) wherefore reſpecting that ſtrict Father of juſtice (whoſe dominion is juſter over Kings, then that of Kings over other mortals) I cannot waile my Blood ſo ſpilt unworthily, who (<hi>Pilate</hi> like) ſubſcrib'd anothers death, having declar'd him firſt wholy inno<g ref="char:EOLhyphen"/>cent in my judgement.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:152699:4" rendition="simple:additions"/>
+               <speaker>Henric.</speaker>
+               <p>Had this been the cauſe of thy Calamity, thoſe other rather much ſhould have been puni<g ref="char:EOLhyphen"/>ſhed with the loſſe (by Heavens juſt vengeance) of their heads who Thee being innocent made thus guil<g ref="char:EOLhyphen"/>ty by their prejudice, and (however againſt thy will and Relucting) as by the ſhoulders forc'd thee head<g ref="char:EOLhyphen"/>long forwards into that moſt horrid iniquity of their judgement. Therefore ſome thing there muſt neceſſa<g ref="char:EOLhyphen"/>rily be more which have cauſed this ſo execrable fate to thee; nor know I why thou ſhouldeſt here be more obtruded on me, thou thy ſelfe canſt tell me any juſt cauſe why thou wert ſtripp'd out of this miſerable Life by ſo ſhamefull and opprobrious a death; if thou cameſt (as ſuch thou boaſts thy ſelf) of Kings, had it not been meeter thou hadſt layd thy Bones amongſt thy anceſtors then trouble here my reſt and quiet?</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>I earneſtly (indeed dying) deſired to have been buried in the Tomb of my Father, but who ſpoy<g ref="char:EOLhyphen"/>led me of my life deny'd that boone to me. Fearing I beleeve leaſt lying ſo neer them, that the voyce of my Blood would cry more loud to them. But in this they have not only been inhumane to me; Many other and moſt grievous indignities have I ſuffered in my ſhame<g ref="char:EOLhyphen"/>full way of Dying. At <hi>Weſtminſter</hi> where my Self and my Anceſtors (the Kings of this Nation) were Inau<g ref="char:EOLhyphen"/>gurated, was I forc'd to heare the Sentence of my Life from the mouth of a ſilly Petty-fogger, when accor<g ref="char:EOLhyphen"/>ding to the municipall Lawes, no Noble man can be judg'd but by his Peers. At St. <hi>Iames</hi> his was I keep'd cloſe Priſoner, whileſt my Enemies did determine of my Head, wholly caſt upon their Arbitrary judging me; a Place above all others lov'd by me, through the
+<pb n="6" facs="tcp:152699:5" rendition="simple:additions"/>memory of my paſt there Childhood, where my youth alſo had been harmleſly entertain'd with many inno<g ref="char:EOLhyphen"/>cuous and moſt innocent oblectations. The Scaffold for my death appointed, rais'd directly before the Court of my houſe, unto which that I might come with more regret and alſo ſhame, ev'n through thoſe roomes they dragg'd me, where (to honour Forraign States Embaſſadors) with Royall pompe, I uſed and Maſques to recreate them. I beheld alſo (but with what ſence of indignation?) his head cover'd, &amp; Eyes ſternly fixed on me, <hi>Oliver Cromwell</hi> one of ordinary extraction and (abſtracting from what Fortune hath rear'd him to) much more deſpicable then the meaneſt of my Nobles (how much ſhort then of the majeſty of a King) ſitting umpire of my life and death. But though theſe things were very grievous and deplorable, yet that one was even then death it ſelfe leſſe tollera<g ref="char:EOLhyphen"/>ble to me, when my eares (the Blood yet ſpinning out my veynes) ſwallowed in that fatall mandate from the Cryer, that it ſhould be death to call my Son or Prince of <hi>Wales,</hi> or deſtine him to bee his Fathers ſucceſſor. And then indeed it truely appeared, as conjectured by the wiſer in the beginning, that not the King ſo much as Rule diſpleas'd the Rebels, who conſpired ſo unani<g ref="char:EOLhyphen"/>mouſly my death, to the end that That aſwell as I ſhould be extirpated. Yet this one thing very much conſolates my Griefes, that (at leaſt) I have been de<g ref="char:EOLhyphen"/>ſtin'd to this Place, where I cannot doubt of your more courteous reception of me, as being Nephew of your Siſter the Princeſs <hi>Margaret,</hi> her I meane who mar<g ref="char:EOLhyphen"/>rying <hi>Iames</hi> the fourth of <hi>Scotland,</hi> bore that <hi>Mary</hi> of whom ſo lately you made mention, and ſhe <hi>Iames</hi>
+                  <pb n="7" facs="tcp:152699:5" rendition="simple:additions"/>my late Father ſince deceaſed, unto whoſe Scepter ſhe gave both <hi>England</hi> and <hi>Scotland,</hi> unto which <hi>James,</hi> I <hi>Charles</hi> the firſt (as Heire unto my Father) have ſuc<g ref="char:EOLhyphen"/>ceeded.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>Hom, what's that J heare, and art thou that <hi>Charles</hi> then the Son of <hi>James,</hi> to whom from me by <hi>Elizabeth</hi> that Kingdome is divolved by Succeſſion? art thou I pre-thee that ſelf ſame <hi>Charles,</hi> and canſt not ſee how all theſe evils have oppreſſed thee? But it ſeems thy eyes yet very well ſee not (newly come in<g ref="char:EOLhyphen"/>to into this region of Darkneſs) No! hadſt thou re<g ref="char:EOLhyphen"/>membred how a long while agoe I drew from out that yoake my necke which in the Church I had full 20. yeares drawne in, after firſt I was annointed King; I, and defended with both Sword &amp; Pen too, thou woul<g ref="char:EOLhyphen"/>deſt leſſe wonder that (after 20. yeares Reigne) thy Subjects ſhould have ſo departed from thee; Thou canſt not be ignorant that amongſt all the Chriſtian Kings J was the firſt that ever arrogated the Supre<g ref="char:EOLhyphen"/>macy and would be cal'ed <hi>The Head of the Church,</hi> which Titles that I might knit them to my Crowne with a knot that ſhould never be unty'd, Oh! what Blood have I not ſhed of Martyrs? This ſinne of mine ſo long ſince committed, being to be expiated by the blood of a King, both this Scepter and monſtrous Head together were at once to periſh; this was long agoe decreed by the Fates, as we may judge now 'tis come to paſſe. But more then all this J will tell you; There was a Perſon of great note during my Reigne, of whom many things thou canſt not chooſe but have heard, whoſe Name was called <hi>Thomas Moore.</hi> This man (adorned with vertues ſo tranſcendent many ages
+<pb n="8" facs="tcp:152699:6" rendition="simple:additions"/>could not match his worth) from a Pleader (at the Barre) of the Law, and (having regard unto his merit and Learning) I call'd to be Lord Chancellor of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> But I ſeemed only thither to have rais'd him, that I might depreſs him from the greater Hight; For when (following the dictamen of his Conſcience) he would not owne me the Head of the Church; I commanded forthwith His to be cut off; So that whileſt Playing <hi>Caliſthenes</hi> hee fell into the hands of <hi>Alexander.</hi> Goe thou then now <hi>(Head of the Church)</hi> and complain, that by the Sentence of a pittifull Law<g ref="char:EOLhyphen"/>yer Thine is alſo cut off from thy Shoulders. Or ra<g ref="char:EOLhyphen"/>ther ſeeſt thou not plainly in theſe Prodigies the Te<g ref="char:EOLhyphen"/>nor of Gods admirable Iudgements? It was grievous to thee to be a Priſoner at St. <hi>James</hi> his; where thou haſt ſo innocently in thy youth diſported thy Selfe; but thou minds not that I formerly (by violence and Sacraledge) ſnatcht thoſe Houſes from the Church, as not long after all the Goods of the Monks, the <hi>Car<g ref="char:EOLhyphen"/>thuſians, Bernardins, Ceſterſians, Canon Regulers,</hi> and ſo of all the reſt; But more eſpecially of thoſe of St. <hi>Be<g ref="char:EOLhyphen"/>nedict,</hi> whoſe houſes and Eſtates I confiſcated, being the moſt Splended and Opulent of all the Kingdome, by an injuſtice till that Time not ever heard of; wher<g ref="char:EOLhyphen"/>fore as I (for that they own'd me not their Head) caſt in Priſon many innocent Religious, and from their Houſes made them hve unto the Gallowes, ſo then hadſt for thy Priſon (where thou ſufferedſt) a houſe that had been heretofore Religious, I hang'd up ſeve<g ref="char:EOLhyphen"/>rall Abbots at their doores to give a terrour (by their ſufferings) to the Monks. And what wonder, if (to the aſtoniſhment of Kings and Kingdomes) thou haſt
+<pb n="9" facs="tcp:152699:6" rendition="simple:additions"/>ſuffered at the doores of thy Pallace, an ignominious and opprobrious Death? But knoweſt thou not (o<g ref="char:EOLhyphen"/>ver and above) that this very Pallace (the Houſe of thy abode) was the dwelling place of the Biſhops of <hi>Yorke,</hi> which I extorted from Cardinall <hi>Wolſey;</hi> A man ſometimes highly advanc'd by me, whileſt ſer<g ref="char:EOLhyphen"/>ving my unbridled Luſt; but whom afterwards I utterly Confounded, when I judg'd it for the availe of my Avarice. Nor prophan'd I only the Epiſco<g ref="char:EOLhyphen"/>pall houſes to ungodly and Nefarious uſes, but Com<g ref="char:EOLhyphen"/>pelled ev'm themſelves the Biſhops (from their Obe<g ref="char:EOLhyphen"/>dience to the <hi>Roman Sea</hi>) into an acknowledgement of my Iuriſdiction in Church affaires, unleſſe only who preſided over <hi>Rochester</hi> whom when neither with faire words nor menaces I could draw into the defection of the reſt, I beheaded to compleat my Sacraledge. Behold therefore if or not it were fatall and moſt agreeable to the Heavenly juſtice, that this Head of the Church (ſo Admentitious) ſhould have been cut off before the doores of the Biſhop? To give Promotion to the affaires of my Primacy; I made me a Vicar of one CROM<g ref="char:EOLhyphen"/>VVELL of thoſe Times, a man of very meane ex<g ref="char:EOLhyphen"/>traction, unto whom (and hee of Lay condition) both the Biſhops and Archbiſhops were as under<g ref="char:EOLhyphen"/>lings: Now another of that name (and like diſ<g ref="char:EOLhyphen"/>cent) Rules as abſolute over all thy Nobles, and Guides the minutes of thy Life and Death. The very ſame I made my Principall inſtrument of kee<g ref="char:EOLhyphen"/>ping from their meanes the Church its children, and of bringing on the Baine of that Religion ſo
+<pb n="10" facs="tcp:152699:7" rendition="simple:additions"/>long practiz'd in the Times of my Anceſtors) which I would call <hi>The Reformation of the Church;</hi> I enter'd to this Kingdom (from my Father) when it was Ble<g ref="char:EOLhyphen"/>miſhleſs, entire, and truly Regall; nor in any thing unto any one obnoxious, only (as fitting, in things that were Spirituall) paying ſubmiſſion to the Vicar of CHRIST. Thou received'ſt it when ſtrengthleſs and wounded, rent, and torne from the yoke of St. <hi>Peter,</hi> (ſo juſt, ſo ſweet and ſo amiable) wholy ſlav'd unto the Vicars of the People, choſe to governe by the votes of the multitude.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>Too too true (by the loſſe of my Head) have I found thoſe very things which thou haſt ſaid to me, and now lately (unleſs by others allowance) that I had nothing either of Life or Kingdomes, which was not wholy in the hands of the Parliament, ſince puff'd up with fond pride and contumacy (by thy Example) I have ſwarved from the Church; yet fear'd I not the qublique Hatchet would have ſtruck me by the hands of Rebels, with ſuch pompe and ſeared impudence at my death, but much more dreaded Secret councels and impoiſonings.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>But of that thou ſhouldſt the leaſt have been afraid; for the puniſhment would not have anſwered the offence. Publique ſinnes muſt have publique Ex<g ref="char:EOLhyphen"/>piations, nor ſought I corners in which to perpetrate my wickedneſſes, but ſinn'd boldly after once I had be<g ref="char:EOLhyphen"/>gun, only I drew indeed the maſque of juſtice upon the Face of my iniquities; the Supremacy (as though my due) of the Church, unto my Self I arrogated, calling a Parliament by a Decree, whereout I quite aboliſhed the <hi>Roman Seas</hi> authority; I repudiated (by pretence
+<pb n="11" facs="tcp:152699:7" rendition="simple:additions"/>of Right) the woman that was my lawfull Wife; the Poſſeſſions (likewiſe wholy of the Clergie) under the ſame colour, I occaſioned to be confiſcated; whoſoe<g ref="char:EOLhyphen"/>ver was averſe to my Supremacie (as though guilty of High Treaſon) I put to Death. Whereſote when our ſinnes (for which wee worthily are puniſhed) are co<g ref="char:EOLhyphen"/>uered over with the veile of juſtice, no wonder if the ſelfe ſame vizard likewiſe veile us when our ſelves at laſt we come to ſuffer.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>But theſe Audacities (from their Subjects unto Kings) are the effects of moſt unheard of wic<g ref="char:EOLhyphen"/>kedneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Henr.</speaker>
+               <p>I confeſſe it, but with how much greater wic<g ref="char:EOLhyphen"/>kedneſs are thoſe inſolencies by our ſelves deſerved? Such ſin only againſt a mortall Prince, but we Prin<g ref="char:EOLhyphen"/>ces againſt an aeternall Deitie. But you (Sir (unleſs a mark'd out Sacrafice God ſo willing) for your ſinnes enormities) could you not have mocqu'd that arreſt of Popular judgement, by your Prerogative in diſ<g ref="char:EOLhyphen"/>ſolving of the Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>I did what I could to diſſolve it, but I pray heare what follow'd after my ſo doing. The <hi>Scottiſh</hi> men (my naturall Subjects) in hoſtile ſort invaded <hi>England</hi> with their Armies, whom oppoſing in their march at <hi>Yorke,</hi> an humble Booke came to my hands by <hi>Kymbolton,</hi> under written by certaine Noble men of my Kingdome. —</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>King <hi>Henry</hi> hearing <hi>Kymbolton</hi> nam'd after fetching firſt a very deepe ſigh. Oh, <hi>Katherine</hi> (ſayes he) <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Kymbolton</hi> (that Woman of all other moſt deare to me) as excelling all her Sex in vertue, whom I Baniſh'd (Heav'n forgive me) from my Bed
+<pb n="12" facs="tcp:152699:8" rendition="simple:additions"/>to make place therein for that Strumpet <hi>Anne</hi> of <hi>Bol<g ref="char:EOLhyphen"/>len,</hi> afterwards publiquely beheaded (for Adultery) hath exchanged this ſo hated Life! This Divorce (a<g ref="char:EOLhyphen"/>gainſt both heav'ns and humane Lawes (to the end that I might make it firme) made me uſurpe unto me the authority of the Church, when (unleſs with ſo horrid a Sacraledge) I could not uphold the impiety of that villany. Hence broke upon our ſelves and both our Kingdomes, the inundation of all theſe preſſing miſeries.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>When (holding forth <hi>Kymboltons</hi> Booke) from this ſayes he, as by one wave of a Deluge hath alſo flow'd the totall Sea of my diſaſters; for unadvi<g ref="char:EOLhyphen"/>ſedly (O my griefe) I condiſcended (they ſo craving) to a Treaty with the <hi>Scots,</hi> in which J bound my ſelfe firmly to make Good what in my name, ſhould (by my Delegates) be agreed upon. Theſe Deputed (O imprudent Drones or rather indeed perfidious Tray<g ref="char:EOLhyphen"/>tors) gave conceſſions to the inſidiating <hi>Scots</hi> to take ſtrong Holds into their hands within my Kingdom, till ſuch time as by my Kingly authority the Parliament (then diſſolved) ſhould be revoked. Writs therefore I accordingly iſſued forth, The <hi>Scots</hi> are moſt Liberal<g ref="char:EOLhyphen"/>ly gratifi'd, nor doe they ſuffer them ſooner to leave <hi>England,</hi> then that firſt J had engaged my Princely Faith (by a writing under my Hand and Seale (this <hi>Hamilton</hi> alſo unhappily Councell'd me, that unfortu<g ref="char:EOLhyphen"/>nate kinſman of mine) not to anull the ſaid new Seſ<g ref="char:EOLhyphen"/>ſions of Parliament, till ſuch time as they ſhould all thereto aſſent.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>Oh, ſtupiditie or rather extreameſt Madneſs. Didſt thou not ſee when to thy ſtiffe-neck'd People
+<pb n="13" facs="tcp:152699:8" rendition="simple:additions"/>thou Granted this, that thou putt'ſt a finall Period to the ſway of thy Kingly Authority? This was one and the ſelf-ſame thing, as if thou hadſt given into the hands of the Parliament thy Scepter and thy Princely Dia<g ref="char:EOLhyphen"/>dem; on condition not to have them again untill ſuch time as they ſhould pleaſe to reſtore them Thee; But much otherwiſe ſhould I have handled mine; Though now it is as cleere as noone day, that the meaſure of my Sins hath been made-up in Thee, by Thy unhappie Participation of my Schiſmes, and that (by blin<g ref="char:EOLhyphen"/>ding the eyes of thy mind (in Propitiation of the of<g ref="char:EOLhyphen"/>fended Dietie) Gods juſt vengeance hath brought on Thee deſtruction. — <hi>Whom God will deſtroy hee taketh away their Right underſtanding.</hi> But when once it was come to that paſſe, Thou ſhouldſt have gain'd (at leaſt) the Parliaments votes unto Thee, by giving Honours to them and other vaſt Largitions.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>Even that in what I could I attempted. But much otherwiſe (God he knowes) it come about; For my Catholique Nobility and Biſhops (whoſe votes I moſt rely'd on in Parliament) were ejected by the adverſe Faction. They were both indeed very Paſſio<g ref="char:EOLhyphen"/>nate for my good; the Catholiques as hoping I would mitigate the aſperity of the Lawes in Force againſt them, by Queen <hi>Elizabeths</hi> and my Fathers conſtitu<g ref="char:EOLhyphen"/>tions; The Prelates alſo as probably expecting a con<g ref="char:EOLhyphen"/>ſervation of their Meanes and Benefices (then threa<g ref="char:EOLhyphen"/>tened in another way) From this Head of theirs (O God) how ridiculous! Having loſt thus in the Houſe of Lords (for the Lower was of little conſideration to me) more then twenty and upwards of Suffrages, who remained more indulgent and Firme to me, were
+<pb n="14" facs="tcp:152699:9" rendition="simple:additions"/>intimidated (thereto Bookes caſt abroad) by the tu<g ref="char:EOLhyphen"/>multuouſneſs of the Apprentices &amp; Tradeſmen, which Seditions the adverſe party of the Parliament with all the eagerneſs that they could, fomented. At <hi>Weſtmia<g ref="char:EOLhyphen"/>ſter</hi> alſo ſcandalous Bookes were written againſt me, at the pleaſure of thoſe Parliamentary Rebels, which (their Emiſſaries farre and neare diſpierſing them) by ſome Provincials (thereto courted) were Subſcribed, and exhibited ſuddenly after to the Parlia<g ref="char:EOLhyphen"/>ment, as though (nothing on their part ſuggeſted) the whole matter had by the People been exacted.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>The very ſelfe-ſame Fraud and Colluſion did I practice to the Church its ruine; For firſt of all (by writs and declamations) who were Refractory of the Clergie I indulged, in doing whereof I pretended Reformation, and not ruine which was really my De<g ref="char:EOLhyphen"/>ſigne (like your Rebels, who in the beginning of their Defection even by Oath and Publique Faith oblig'd themſelves, not to attempt againſt your Perſon, Realms or Church, but to defend them with their utmoſt power) though however of ſome Defects in Church and State (by removing fro<g ref="char:cmbAbbrStroke">̄</g> you certain evill Councel<g ref="char:EOLhyphen"/>lors) they ſeemed to pretend a Reformation. And leaſt any thing ſhould have the face of Oppreſſion which I did, I procured certaine Bookes to flye abroad with whoſe Sence I was very well pleaſed, which the Monks in their owne names ſhould write to me, neare accor<g ref="char:EOLhyphen"/>ding to this following Tenor. —</p>
+               <p>
+                  <hi>SInce the goodneſſe of GOD (with your Highneſſe concurrence) hath ſo wrought, that in theſe Later dayes (the Darkneſs of Times paſt diſpierſt) a new and veritable Light hath appeared unto us; We heartily and
+<pb n="15" facs="tcp:152699:9" rendition="simple:additions"/>humbly make Requeſt, that you will free us from this Cloiſtered ſlaverie (the very path unto moſt certaine Per<g ref="char:EOLhyphen"/>dition) and reſtore vs to our Spirituall liberty; for which doing (to expreſs our Gratitude) wee (freely and not a<g ref="char:EOLhyphen"/>ny wayes enforced, whom nor feare nor yet colluſion Drawes thereto) Give you all our Houſes, Goods and Lands, nay Iuriſdiction to bee your owne for ever.</hi> — Theſe Bookes I diſpierc'd through all the Monaſteries, and Commanded that every one ſhould ſubſcribe them, who would not to be forthwith hang'd. But eſpecial<g ref="char:EOLhyphen"/>ly all the Abbots &amp; Superiors, that the reſt might by their ſuffering be intimidated; ſo that divers through the feare of death (as though really from their proper motives) were induc'd to underwrite theſe Papers.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>I have ſigned alſo many things conſtrainedly, and (what is worſe) been forc'd to ſweare I did ſo wil<g ref="char:EOLhyphen"/>lingly. But ſo farre was this my eaſineſs from availing me (eſpecially about the City of <hi>London</hi>) that (after all whatſoe're they ask'd me I had given them with a full compliance) they ſtill more and more increaſed their tumults; and obſerving all my Caſtles, Strengths and Navie, taken from me (with the totall Militia) it was then (when no meanes elſe were left me) that I betooke my ſelfe firſt unto Atmes, whereby to Guard my life, my Crowne, and my Dignity; wherefore (ſet<g ref="char:EOLhyphen"/>ting up my Kingly Standart) the moſt faithfull of my Subjects flie to me, whoſe numbers in ſhort time ſo increaſed that I wag'd ſeaven warre with the Parlia<g ref="char:EOLhyphen"/>ment. During which time it was Remarkable to ſee how (more then others) the <hi>Roman Catholiques</hi> flock'd to me, and (for my good) expos'd their Lives and for<g ref="char:EOLhyphen"/>tunes. Thoſe to wit who were formerly traduc'd (by
+<pb n="16" facs="tcp:152699:10" rendition="simple:additions"/>the obloquies of moſt ſlanderous Calumniators) as ſuſpected to both King and Kingdomes, for refuſing of the oath of <hi>Allegeance</hi>) in which point they never yet were found defective) though falſly therefore called <hi>Recuſants,</hi> but which alſo exacted from their Conſci<g ref="char:EOLhyphen"/>ences an abjuration of the Popes authority, and an ac<g ref="char:EOLhyphen"/>knowledgment of my Spirituall <hi>Supremacy,</hi> theſe ve<g ref="char:EOLhyphen"/>ry men I ſay, though they tooke not that Oath, yet (unſworne) they never ſtucke at any thing in the w<hi rend="sup">ch</hi> they might be Loyall to me and faithfull. But the <hi>Covenanters</hi> (call them Proteſtants or Puritanes (what did they (though againſt their Oathes, and highly ab<g ref="char:EOLhyphen"/>juring any ſuch kind of Practice) but ev'n Tooth and naile bend all their forces to deprive their King of Life and Dignity. Nor wanted theſe their Plots at laſt ſucceſs; For (money falling ſhort to pay the Sol<g ref="char:EOLhyphen"/>diers (whom I therefore was conſtrained to diſmiſſe) being my Selfe of all things deſtitute to extremity) I was glad (as to my very laſt refuge) to betake my ſelfe wholly to the <hi>Scots.</hi> But (oh unheard of and moſt ſhamefull perfidiouſneſs!) thoſe ſold me to who would give moſt for me, by which meanes thus toſt from Priſon to Priſon, theſe miſeries as you ſee have overwhelmed me.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>I wonder not (by the Parliaments authori<g ref="char:EOLhyphen"/>ty and inſinuations) that ſome of thine have left thee; But how commeth it, that thy Country-men the <hi>Scots</hi> have taken Armes againſt thee, joyning with thy E<g ref="char:EOLhyphen"/>nemies?</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>This threefold defection (by the <hi>Scots</hi>) was indeed my utter ruine and overthrow; for if only I had conteſted with the <hi>Engliſh</hi> (by the ayd of other faithful
+<pb n="17" facs="tcp:152699:10" rendition="simple:additions"/>of my Subjects (more in number very many then the Rebels) aſwell in <hi>England</hi> as alſo in <hi>Ireland,</hi> I ſhould eaſily have made good my Prerogative. But the <hi>Scots</hi> (on this occaſion) fell from me. I fancying (forſooth) as Head of the Church, that it belonged moſt peculi<g ref="char:EOLhyphen"/>arly unto me, that not only the ſame tenor of Faith, through the extent of my whole Dominions, but the ſame Service alſo, Rights and likewiſe Ceremonies, ſhould be uniformly in the ſame obſerved (the Arch<g ref="char:EOLhyphen"/>biſhop thereto moſt of all exhorting me, whom I Re<g ref="char:EOLhyphen"/>verenc'd as though indeed ſome Patriarck) I comman<g ref="char:EOLhyphen"/>ded the Book of <hi>Common Prayer</hi> (a Forme of thy Son <hi>Edwards</hi> firſt compoſing) and the Surplice to be uſed by the <hi>Scots,</hi> who had not any either Publique forme of worſhip, or other decency of Ornaments in their Church, but (as now it is the faſhion at <hi>Geneva</hi>) every one Babbl'd as hee pleaſes his owne impertinencies; ſtrictly threatning with Exemplary puniſhment who thereto ſhould not yeeld due obedience; which the people of <hi>Scotland</hi> obſerving, and that already it was put in practice, cryed out <hi>Popery</hi> is now violently For<g ref="char:EOLhyphen"/>ced upon us. Then tumults day by day increaſed, w<hi rend="sup">ch</hi> the <hi>Calvaniſt</hi> Miniſters fomented, who conſulting the <hi>Puritanes</hi> of <hi>England</hi> (eſpecially <hi>Hambden</hi> the chiefe of that faction) joyntly brought in the <hi>Scots</hi> upon this Nation (then in Peace) who with their Armies inva<g ref="char:EOLhyphen"/>ded it. This incurſion (ſo rebellious) of thoſe Traitors (like a River when its Bankes are broken downe) o<g ref="char:EOLhyphen"/>verflow'd my totall Realmes with Sedition.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>Is it not as cleare then (tell me <hi>Charles</hi>) as Noone day, that our <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> affecting <hi>Church Supremacy</hi> hath confounded us <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which now thou ſeeſt</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:152699:11"/>
+               <speaker>Carol.</speaker>
+               <p>Very true it is nor voyd of reaſon for ſo be<g ref="char:EOLhyphen"/>ing; yet doe I not reach how all thoſe evils rather ceiz'd not thee (the firſt invader of the Engliſh Pri<g ref="char:EOLhyphen"/>macie) who (conventing all the States of thy King<g ref="char:EOLhyphen"/>dome, caus'd this Title of chiefe <hi>Head of the Church</hi> to be confirmed upon thy Selfe and thy Succeſſors) Then poore mee who have but keep'd (and that too peaceably) what my Anceſtors by their wills had left to me.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>Oh <hi>Charles,</hi> how art thou groſly deceived if thou thinkeſt J doe not ſhare in thy misfortunes? No Sin yet ever eſcap'd unpuniſh'd, nor was impunity ever allow'd to wicked perſons. And to paſſe by what now at preſent I ſuffer) what tortures did not then diſ<g ref="char:EOLhyphen"/>tort me, when my Executioners were thoſe three Man<g ref="char:EOLhyphen"/>ſpillers Avarice, Cruelty and Luſt. — And as for avarice ſo unſatiably it raigned in me, that having ſub<g ref="char:EOLhyphen"/>verted 376. Religious houſes, and ſnatcht away their Lands and Goods (by an Edict to that purpoſe which I made) ſcarcely one yeare had yet been fully gone a<g ref="char:EOLhyphen"/>bout, before I vex'd with ſuch high Taxes all my Sub<g ref="char:EOLhyphen"/>jects as had never been before from them exacted, by which morſell now made keene and fleſh'd (as it were) not long after (oh how rich and Opulent!) I confiſ<g ref="char:EOLhyphen"/>cated what remain'd o'th Church revenues, in the in<g ref="char:EOLhyphen"/>terim I gave hopes unto the Laytie that thoſe goods of the Church would goe ſo farre with me, as to free them for ever from exactions; a Hearing ſo gratefull to the People, that they impenſly for it favoured my abreptions? But ſo fool'd they were in theſe their ex<g ref="char:EOLhyphen"/>pectations, that I alone a little after more oppreſs'd them, then in fifty yeares before my Predeceſſors, after
+<pb n="19" facs="tcp:152699:11"/>I had ſpoyl'd and raz'd a thouſand Churches taken all unto my uſe that belong unto them, all their Coine, and Sacred veſſels robb'd them of, Braſſe, Lead, Shards, Seelings, nay even the very Rubbiſh ſet to ſale (with all elſe vendible) beſides two Cheſts from out the Church of <hi>Canterbury</hi> (ſo maſſie ſcarce foure men could carry one of them) ſo well cramb'd they were with Gold and pretious Stones) after all (I ſay) theſe things had been thus rob'd by me, J was reduc'd unto ſuch very great indigence, that whereas I mix'd at firſt but two of Braſs only, with ten ounces (by my Edict) of good Silver, I afterwards with two of current Sil<g ref="char:EOLhyphen"/>ver mix'd ten ounces of adulterate Braſs; thus tortur'd (as you ſee) with endleſs Avarice; nor leſs roughly by my cruelties handled; — For full 20. yeares at leaſt together (whileſt I liv'd in the Communion of the Church) no one ever of the Kings ſhed leſs Blood, in all which time two only ſuffer'd of my Nobility; But afterwards when I fell from the Church (not more thirſty of Gold then of Blood) of all conditi<g ref="char:EOLhyphen"/>ons, all Ages, and all Sexes I exhibited a moſt fearfull Maſſacre. And that upon no other Demerit but that onely they withſtood my voluptuouſneſſe. Foure Queens (with either Steele or Impriſonments) I tooke away which were the Conſorts of my Bed, two young Princeſſes, and alſo two Cardinals (proſcribing in his abſence, the Third) who was very neare in Blood to me ally'd. Dukes, Marqueſſes, Counts or Sons of Counts at leaſt a dozen I put publiquely to death; Barons, Knights Bannerets, or Knights to the number of 20. wanting two, Abbots and Priors 13. Prieſts and Religious 77. of leſſer ranke and of the vulgar infinit.
+<pb n="20" facs="tcp:152699:12"/>And (whileſt belching thus on all ſides my cruelties) the faithfulleſt of my Subjects moſt feared me, as witneſs that moſt horrid Cataſtrophe of Cardinall <hi>Wolſey,</hi> of <hi>Cromwell,</hi> and the <hi>Bullens,</hi> of the <hi>Howards,</hi> of <hi>Norrice,</hi> and laſtly <hi>Compton.</hi> But as for Luſt ſo ve<g ref="char:EOLhyphen"/>ry inſatiably was I loſt in it, that divorcing my beſt and lawfull Wife, I ſaw not any thing of that Sex the which I burnt not for, nor ſcacely did I luſt that wo<g ref="char:EOLhyphen"/>man whom I one way or other did not violate. Was it not alſo for the puniſhment of my Sins, that your Father and your Self have raign'd in <hi>England?</hi> Who left nothing on my part unattempted, which I could thinke of to hinder your ſucceſſion, that I might fix it by a maſculine Birth unto the houſe of which my Self was diſcended? Two wives I forc'd unjuſtly from my Bed, and as many made to quit this Life; The fifth (who fell in troubleſome Labour) I commanded to be ripp'd up alive, to the end to ſave the Infant which ſhe went with, thus barbarouſly and inhumanely ad<g ref="char:EOLhyphen"/>ding; That it was eaſier to get more wives then chil<g ref="char:EOLhyphen"/>dren. The 6.<hi rend="sup">th</hi> I alſo afterwards married (whom when thinking to have ſpilt, my ſelfe J periſh'd). Yet (for all this my caring for Poſterity (during fifty yeares time of my Life) no one ever lived long of my Survi<g ref="char:EOLhyphen"/>vors. A Boy indeed (of Nine yeares old) ſucceeded me in the uſurped Supremacie, little knowing how to Governe himſelf, but much leſſe the helme of Church juriſdiction, who had alſo firſt departed this Life be<g ref="char:EOLhyphen"/>fore attaining to his youthfull age. <hi>Mary</hi> alſo my legitimate Daughter (who caſt out Heriſie) enter'd afterwards to the Crowne, of whoſe Child I could have very well hoped (five yeares married to the Ca<g ref="char:EOLhyphen"/>tholiqe
+<pb n="21" facs="tcp:152699:12"/>King) But that God (the juſt revenger of Homicides, Rapes, Inceſts and likewiſe of Sacraledge) barr'd my ſeed from inheriting the Earth, nor in vaine are his words or to be laugh'd at (thus importing) that <hi>the dayes of the Sons ſhall be cut ſhorter for the Fathers offences,</hi> — She dying ſoone after without iſſue, this Empire was tranſlated into thy Line; But <hi>Elizabeth</hi> that illegimate Daughter of mine (begot in inceſt, and judg'd incapable of Governing by the Parliament, and my Selfe thereto aſſenting) ſtep'd however into the Kingly throne, and would be called forſooth) the <hi>head of the Church</hi> by my example, under whoſe womaniſh Popeſhip at leaſt a thouſand ſuffered death for being Prieſts. But ridiculous is that Head which hath no Tongue; and a Woman (as the Apoſtle averreth) is not allowed to ſpeake in the Church, yet is it admi<g ref="char:EOLhyphen"/>rable to ſee with what audacity ſhe tooke upon her to uſurpe the Church of God, who Miſſioning (with a womaniſh ſolicitude) her Miniſters for the Planting of the Goſpell, ſow'd the ſeeds (as yet we ſee here in <hi>England</hi>) of a multiplicity of ſowre-levened Heriſies. And (after 17. yeares keeping her Priſoner) ſhee had cut off the head of thy Grandmother, doing acts of moſt unparalell'd cruelty by the example of my former Tyrannies, ſhe diſcended without into —. Thus (in the firſt Generation) ended my Progenie, ſo true it is what the Kingly Prophet ſaid, <hi>That the ſeed of the wicked ſhall periſh,</hi> Pſal. 37. and accordingly in another place, <hi>Their fruits ſhall be extirpated from the Earth and their ſeed from the Sons of men.</hi> I have been admo<g ref="char:EOLhyphen"/>niſhed by very wofull experience of the truth of this Prophets ſaying. So (to wit) it hath pleaſed the Al<g ref="char:EOLhyphen"/>mighty
+<pb n="22" facs="tcp:152699:13" rendition="simple:additions"/>to laugh at the Councels of men. And this Reaſon the ſame Prophet ſuperaddeth, <hi>For they contri<g ref="char:EOLhyphen"/>ved Councels which they could not make good,</hi> Pſ. 29. <hi>For there is no Councell which will ſtand againſt God,</hi> Prov. 21. — as too too late (and to my coſt) I have found true, wouldſt thou yet be more confirm'd of theſe ſad verities? Unto <hi>Edward</hi> (when I dy'd) my Son, I left twelve Turors all reputed Catholiques, and (ab<g ref="char:EOLhyphen"/>ſtracting from the Supremacy only (which I deſired he ſhould keepe in his hands) commanded he ſhould be otherwaies bred up Catholique. All Heriſies this only excepted by my Will I wholy excluded and abo<g ref="char:EOLhyphen"/>liſh'd. But (as violating the Wils of my Anceſtors, and ſubverting what they built and Conſecrated, (ſo many Temples and monuments of Religion) I deſerv'd not that my owne ſhould be obſerved; Amongſt the reſt the Duke of <hi>Somerſet</hi> was one (Uncle to <hi>Edward</hi> the ſixth by the Mother) who (at my Death) I did as Guardian preferre to him. He infected (and my Son by him, with Herifie) brought in that (which moſt I Hated) of the Sacrament, which Queene <hi>Elizabeth</hi> (after both) Confirmed. A Monument I appointed for my Aſhes much more ſumptuous then ever any of my Anceſtors, and yet hitherto I have failed of the ſame; (though alone of all the Kings of <hi>Great Britaine;</hi> Three children have in order ſucceeded me; Nor need I feare (now thoſe are dead) to be forgotten, who (for my wickedneſs) ſhall aeternally be remembred. I am the marke of all mens hate of all conditions. To the <hi>Catholiques</hi> by good reaſon odious, cutting <hi>England</hi> from the Communion of their Church; abominated no leſſe worthily by the Religious, as whoſe Families
+<pb n="23" facs="tcp:152699:13" rendition="simple:additions"/>I have deſtroyed and ſold their Goods. Equally exe<g ref="char:EOLhyphen"/>crable to the Church and Laytie; as firſt raiſing o're the whole Body of the Catholiques, that Perſecution which to this houre afflicteth them. The Heriticks ev'n to death deteſted me (ſtill purſuing them with fire and ſword) <hi>Luther</hi> call'd me <hi>a ſtall-fed Oxe,</hi> and very often a moſt inhumane Tirant; <hi>Calvin</hi> drew out the ſword of his Pen againſt my Tytle of <hi>the Head of the Church,</hi> which (ſo monſter-like) to my Self J had arrogated; and mark'd me out by the Dint of his wri<g ref="char:EOLhyphen"/>tings, as one deſtitute of both feare and ſhame, in re<g ref="char:EOLhyphen"/>lation to both God and men. All the Literate will perpetually hate my memory, that I ſhould root out and totally deſtroy ſo many monuments of Antiquity and Learning, ſuch as ſcarcely in the world are to be Paralell'd. To conclude whileſt I liv'd, the moſt did hate me, every one fear'd me, and ſcarce any one lov'd me. In my Later dayes (by the Furies of my Conſci<g ref="char:EOLhyphen"/>ence agitated, like to <hi>Oreſtes</hi>) I would faine have incor<g ref="char:EOLhyphen"/>porated with the Church all thoſe Kingdomes which I had torne from its Obedience (and in whatſoever I was able) I endeavoured a reparation of thoſe wrongs I had done my wife. This at laſt in ſome ſort I pro<g ref="char:EOLhyphen"/>vided for, giving caution by my laſt will and Teſta<g ref="char:EOLhyphen"/>ment, that (if <hi>Edward</hi> my Son ſhould dye iſſueleſſe) my Daughter <hi>Mary</hi> whom I had before diſ-inhe<g ref="char:EOLhyphen"/>rited (borne of <hi>Katherine</hi>) ſhould ſucceed me in theſe Kingdomes. Oh, how often have I talk'd with my Familiers, about this firſt (to wit) of bowing to his Holineſſe, and being receiv'd againe into his Grace and Favour? But having formerly
+<pb n="24" facs="tcp:152699:14" rendition="simple:additions"/>cozen'd divers by thoſe Arts, none would truſt me (as being by all ſuſpected) whom they eluded (as though ſeeking to entrap them) Thus abandon'd and forſaken by every body, I departed out of the Communion of the Church (theſe laſt words before my Death inge<g ref="char:EOLhyphen"/>minating) <hi>All is marr'd, — All is marr'd, — Monks, — Monks, — Fryers, — Fryers,</hi> — my Buriall was juſt like that of <hi>Achab,</hi> in the ruines of a Religious houſe; for when my Body was conveyed hither (ev'n a Dunghill through over-eating and Oppletion) the Lead (in w<hi rend="sup">ch</hi> it was wrap'd) unhappily unſawdering, as it was ſet downe within the Ruines of this houſe, where while a Plumber (in all haſt, to helpe it) ran this way and that way for materials) his Dog lick'd up my Blood moſt greedily. A revenge for that of Prieſts and Religious which I ſhed (Oh God) how juſt and deſerv'd a one? Doſt thou not ſee <hi>Charles</hi> how in my Perſon thus ſuf<g ref="char:EOLhyphen"/>fering, God hath warn'd thee that I departed not un<g ref="char:EOLhyphen"/>puniſhed?</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>Theſe are things very grievous indeed, and which deſerve to be well ponder'd to all aeternity.</p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>But though theſe things may ſeeme to mor<g ref="char:EOLhyphen"/>tals very grievous, yet (in compariſon of what I ſuffer in Hell) they are meere trifles, and not worthy to be commemorated. For (beſides what I have merited by my own) whatſoever I have ſinn'd againſt another, what innovations I have forc'd upon Religion, ſuperadd unto the increaſe of my torments; inaſmuch as (by my uſurping the Supremacy) I opened a Gap to all the miſchiefes of Hereſies. Wherefore as (ſuperadditio<g ref="char:EOLhyphen"/>nally) I am here tormented, by the arrivall of any new come Ghoſts, ſo is it juſt (ſince the afflicted com<g ref="char:EOLhyphen"/>fort
+<pb n="25" facs="tcp:152699:14" rendition="simple:additions"/>the afflicted) that thoſe very ſame, ſhould have a ſhare in my puniſhments who have maintain'd and keep'd on foot my Errours, as thou haſt done; who (though the ſcourge of heavens juſt Ire, hath theſe ten yeares through three Kingdoms cloſely follow'd thee, and that too chiefly (for thy hatred to Religion) yet haſt thou breath'd (with thy laſt Breath) a diſobedi<g ref="char:EOLhyphen"/>ence, to the authority of the Sea of <hi>Rome</hi> (thy Biſhop ſo of <hi>London</hi> perſwading thee) nay moreover not the Primacy only which I left thee (but new Errors (in<g ref="char:EOLhyphen"/>troduced by Queene <hi>Elizabeth</hi> and thy Father) didſt thou ſtrive to uphold (of Prince <hi>Edward</hi> I here wit<g ref="char:EOLhyphen"/>tingly am ſilent) and (if other things be true which J have heard) thou ſtampd'ſt thy Coyne alſo with the inſcription of Proteſtancy.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>Oh Heav'ns, that That fatall Proteſtancy had never been hatch'd at leaſt not come unto my Eares! It began (about thy time) in <hi>Germany</hi> when (the fol<g ref="char:EOLhyphen"/>lowers of <hi>Luther</hi> were called Proteſtants) whence it afterwards paſs'd into <hi>England.</hi> And as Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> (oh <hi>Henry</hi>) and my Father, were the firſt of all thoſe that went before them who proteſted thy Reli<g ref="char:EOLhyphen"/>gion in theſe Kingdomes, whereupon hath come this name of Proteſtant. So (ſoon after) roſe the <hi>Puritane</hi> faction, or the <hi>Calvaniſt,</hi> who impugned both the o<g ref="char:EOLhyphen"/>ther, and our <hi>Rituall</hi> (or Booke of <hi>Common Prayer</hi>) ſet in force with the 39. Articles. Which (ſubverting all Epiſcopall juriſdiction) doth yet glory in being called <hi>Proteſtant.</hi> Afterwards ſprings a Sect of <hi>Independents</hi> which proteſts againſt the three that went before, theſe are devided into hundreds of other <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>malion and new-broach'd Opinions, which yet all will needs
+<pb n="26" facs="tcp:152699:15" rendition="simple:additions"/>be tearmed <hi>Proteſtants,</hi> and perhaps as many more there will yet riſe (from out the Hydra of this un<g ref="char:EOLhyphen"/>happie Reformation) which will alwaies be impug<g ref="char:EOLhyphen"/>ning one the other. Heaven grant that with the milke of my mother I had alſo ſuck'd in the Religion of my Anceſtors; for my Grandmother not only dyed Ca<g ref="char:EOLhyphen"/>tholique, but ſhed her Blood in the defence of that Re<g ref="char:EOLhyphen"/>ligion. But, as others may condig'nly have been puni<g ref="char:EOLhyphen"/>ſhed, for introducing or promoting of Errours; For vexing with much cruelty the Catholiques, and uſur<g ref="char:EOLhyphen"/>ping or maintaining this Supremacy, I certainly never innovated Religion, of all others have bin mildeſt unto Catholiques, nay even next of all acceded to their Te<g ref="char:EOLhyphen"/>nents. In fine I have exerciz'd this Supremacy, with a moderation ſurpaſſing all the reſt, and (by reaſon I did not judge it fitting, or becomming any Lay-mans un<g ref="char:EOLhyphen"/>dertaking) The whole charge thereof (at leaſt the greater part) J recommended to the Arch-biſhop of <hi>Canterburie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>But haſt thou not obſerv'd that (of the whole <hi>Engliſh</hi> Epiſcopacie) only <hi>Canterbury</hi> in theſe troubles loſt his head? (both Documents of the high<g ref="char:EOLhyphen"/>eſt inſtruction!) Thou, for Kings; and, that Patri<g ref="char:EOLhyphen"/>arch, for Prelates; who (if their Heads they would have ſtand upon their ſhoulders) muſt not make them<g ref="char:EOLhyphen"/>ſelves <hi>Heads of the Church</hi> (by hereafter prejudicing the Roman Iuriſdiction) but what avail'd it thee to have approximated unto Popery, unleſſe throughly thou hadſt embrac'd that Faith; for it ſufficeth not to ſtand in the Portch, unleſs thou enter into the boſome of the Church. Moreover many (in theſe
+<pb n="27" facs="tcp:152699:15"/>gulfes below the Earth) are much more grievouſly Tormented and vex'd, becauſe they knew but have not exerciz'd the Truth; that (in ſome things) King <hi>A<g ref="char:EOLhyphen"/>grippa</hi> was a Chriſtian, was not ſufficient to worke his Salvation; No (for that throughly hee was not con<g ref="char:EOLhyphen"/>verted by <hi>Paul</hi>) hee now burnes with me in aeternall flames, did I not my Self ſometimes profeſſe that Faith in all particulars (only abſlracting from the Popes Supremacy) but Sinning in that one ſole defe<g ref="char:EOLhyphen"/>ction, I am guilty of all thoſe other Abominations. But hee that ſpar'd not <hi>Paul</hi> his incredulity (doing things of which he then was ignorant) will not ſpare this moſt execrated Head of mine, who have witting<g ref="char:EOLhyphen"/>ly, nay and willingly periſhed. But how frivolous is that which thou pretendeſt to extenuate the malice of thy crime, when thou faiſt thou didſt not exer<g ref="char:EOLhyphen"/>cize the Supremacy, onely left it unto <hi>Canterbury</hi> to doe it. As though indeed thou hadſt not Exer<g ref="char:EOLhyphen"/>ciz'd that charge whereunto thou hadſt deputed ano<g ref="char:EOLhyphen"/>ther? Nay more, I hold that <hi>Strafford</hi> loſt his Head (ſo Provided by the aeternall Iuſtice) for that alſo He then carried thine (as being thy Vicar) in the Church of <hi>Ireland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>As I have not wholly been exempt from all fault, ſo having (proceeded) much more moderately in the Supremacy, and promoted more the Peace of the Church, then all theſe others (who have paſſed before me) I would faine know why I am the moſt of all puniſhed?</p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:152699:16" rendition="simple:additions"/>
+               <speaker>Henrie.</speaker>
+               <p>Thou haſt not obſerv'd (it ſeemes) that jea<g ref="char:EOLhyphen"/>lous God (who puniſheth in the Child the Fathers faultineſs) how he ſcourgeth the impieties of the wie<g ref="char:EOLhyphen"/>ked, to the third and alſo fourth Generation, leaſt (if only hee ſhould ſcourge us in our ſelves) we might think that any enormions impiety, would be eaſily and more ſuddenly expiated, nor deferres he to puniſh till ſo long after, that his memory who ſinneth ſhould die, but leaſt it ſhould be forgotten that he was puniſhed for ſinning; Thou art the third now (from the cra<g ref="char:EOLhyphen"/>dle of Schiſme) who hath raigned King, in which Ge<g ref="char:EOLhyphen"/>neration thou ſuffereſt; For though my two Daugh<g ref="char:EOLhyphen"/>ters (firſt <hi>Mary</hi> then <hi>Elezabeth</hi>) have Succeſſively in<g ref="char:EOLhyphen"/>herited the Crowne, yet thoſe two with their Brother King <hi>Edward</hi> (who was my Son) make up but one Generation; if you number therfore either the Kings or Generations; — <hi>Edward</hi> me, <hi>James</hi> him, and thou <hi>James,</hi> have ſucceſſively and in order followed; nor hath it happened (but by the hand of God) that the heavenly vengeance ſhould have fallen upon thy head (the moſt innocent and moderate of all the reſt) To ſhew that not ſo much thy private Sins have been cha<g ref="char:EOLhyphen"/>ſtized by his Rod of Iuſtice, as the Hereditary evils of thy office, with what impieties ſtill attend thy Titles, — as it is ſaid, — <hi>The fathers have eaten ſower Grapes and the Teeth of their children have been ſet on edge,</hi> Ezek. 18. Which take not as though Children intire<g ref="char:EOLhyphen"/>ly innocent ſhould be overwhelmed by their Fathers faultineſs; For <hi>the Soule that ſinnes it ſelfe ſhall Dye.</hi> But that ſuch who are leſſe faulty, nay ev'n innocent (as it were) in compariſon of their Fathers crimes) doe yet ſuffer often ſomething of their merit. For if
+<pb n="29" facs="tcp:152699:16" rendition="simple:additions"/>that puniſhment had happen'd in the time of any wic<g ref="char:EOLhyphen"/>ked and luxurious Prince, I ſhould not have ſought for its infliction any where elſe; then from the crimes of ſuch a Trus'd-up Potentate. But that my Subjects (who ſtile themſelves <hi>Proteſtants</hi>) ſhould (by taking off thy head) thus puniſh thee whom thy very Enemies cannot aſperce with any crime, came not indeed by a<g ref="char:EOLhyphen"/>ny other way to paſſe, but through that Capitall tranſ<g ref="char:EOLhyphen"/>greſſion of our Pride, in preſuming to be <hi>Heads of the Church;</hi> and as I was the laſt of my name both King and alſo Head of the Church, ſo thou (Oh, too too unfortunate <hi>Charles</hi>) art the firſt of thy name that ever Raigned, and the laſt that ſhal be Head of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Carol.</speaker>
+               <p>I feele indeed the judgements of God to have fallen very heavily upon me, for as out of one falſe Principle in Faith many abſurdities ariſe of Opinions, ſo out of one unhapple Apoſtacie from the Church, many others have followed after at the heeles, which the newer and more recent that they are, the more dan<g ref="char:EOLhyphen"/>gerous, and more to be took heed of. Thou began'ſt others increas'd that Sacraledge, w<hi rend="sup">ch</hi> when (afterwards) ſome had fully perfected, I at laſt bore the Heft of all, Thou (tearing from the Roman Obedience thy people and Biſhops of <hi>England</hi>) would'ſt be accompted (J, and wert) independent; and the Head of the reformed Church? Now a Sect of Independants hath broke out (God revenging ſo the Sin of thy Sacraledge) who regarding neither King nor Biſhops, firſt tooke off my Spirituall head, then my owne Cut and ſever'd from my ſhoulders; one <hi>Cromwell</hi> in thy time then liv'd (of thy Cabinet and moſt ſecret Councels) who perſwaded thee (a King) to ſpoyle the Church; now another of
+<pb n="30" facs="tcp:152699:17" rendition="simple:additions"/>that name (and not unlike him) forc'd the People to deſtroy their King; <hi>Oh how just are the judgements of God and his wayes inſcrutable.</hi> For (if not ſooner in our ſelves) in our Poſterities, ſhall we at laſt be pu<g ref="char:EOLhyphen"/>niſh'd in that very kind in the which we have offended. Oh, God that whileſt I lived in this world, I had ſeri<g ref="char:EOLhyphen"/>ouſly pondered theſe things, at the leaſt (when ſo much leafure ſometimes ſerv'd me) in the time of my moſt tedious impriſonment! Happie man had I paus'd up<g ref="char:EOLhyphen"/>on the ſeries of Gods judgements (from above ſo threatning me) in the ama<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itude and bitterneſs of my Soule; I had leaſure (indeed) to dally with my Pen, and write a Booke of other things, a whole one, as my Armies how they came to be deſtroyed, of the miſe<g ref="char:EOLhyphen"/>ries and diſtreſſes of my Life, and the inſolencies thoſe eſpecially of the Souldiers, but never once call'd to mind thoſe very things which I ſhould moſt of all have printed on my thoughts. Oh, <hi>Juxonius</hi> (ſo I call'd the Biſhop of <hi>London</hi>) or elſe <hi>Lawd</hi> my faithful Coun<g ref="char:EOLhyphen"/>celler and friend, why have neither of you admoniſh'd me of theſe things, either by Letters, or Friends that did commune with me; for being three yeares a Pri<g ref="char:EOLhyphen"/>ſoner before my Death I had time enough to think of all theſe things, <hi>But they had Eyes and they could not ſee.</hi> Oh, how Blind were all theſe that ſaw mee, and well may what followes be appli'd to us;
+<q>At Length we <hi>Phrigians</hi> (but too late) grew wiſe.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Henric.</speaker>
+               <p>This alſo I would have men duly Ponder, how the Parliament (the very name whereof's ſo I<g ref="char:EOLhyphen"/>dol'd (eſpecially by the effacinated <hi>Engliſh</hi>) is devolv'd now into a Lower houſe, both the Biſhops and the
+<pb n="31" facs="tcp:152699:17" rendition="simple:additions"/>Lords Ejected) in whoſe Votes was once the totall Authority, the Houſe of Commons being not any thing regarded. A juſt puniſhment indeed for their flattering me into a preſumption of being Head of the Church, who themſelves are now all trodden under foot (ſometimes ſitting as the Heads of Par<g ref="char:EOLhyphen"/>liament) And this by that <hi>third Order</hi> (without or<g ref="char:EOLhyphen"/>der, unto which they are ſo ſhamefully ſubjected). For <hi>England</hi> (as now plainly it appeareth) from a Paradice is tranſlated into a Hell, in which no Or<g ref="char:EOLhyphen"/>der but perpetuall horror inhabiteth, where <hi>A man ſtrong in Armes keepes our Court and holds peaceably his uſurp'd Poſſeſsions.</hi> This third Order being growne to that height, that Kingly Government which had its Period in thy Fate, unleſs by Miracle can never hold up its Head. — <hi>Hence learne O yee Kings to bee wiſe, and take inſtructions you that Iudge the Earth.</hi>
+               </p>
+               <p>The Souldiers (then at hand) of CROMVVELL, underſtanding this hard fate of Monarchy, which ſhould hardly ever riſe from out its Ruines tooke good heart, and (with great noiſe and laughter) ran in crouds from out the Church of <hi>Windſor,</hi> each one glad that he had lent a hand (by cutting off this head of the Church) to the execution of the Heavenly juſtice. But not knowing or leſſe (happily) Rumina<g ref="char:EOLhyphen"/>ting, that the Father (oft-times) burnes the Rod with the which hee doth chaſtiſe his Child.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="apology">
+            <pb n="32" facs="tcp:152699:18" rendition="simple:additions"/>
+            <head>IN MALEVOLOS HUJUS <hi>Narratiunculae obtrectatores.</hi>
+            </head>
+            <lg>
+               <l>ZOILE, ne laceres morſu mea ſcripta canino,</l>
+               <l>Néve meris dicas omnia ſuta dolis:</l>
+               <l>Extimus hiſtoriae cortex (volo) fictus habetor;</l>
+               <l>Vera ſed huic intùs ligna ſubiſſe ſcies.</l>
+               <l>Iſtaque corporeis licèt auribus invia noſtris,</l>
+               <l>Mentis at internis ſenſibus hauſta putes.</l>
+               <l>Eia, age, mendacem me, carptor inepte, Poëetam</l>
+               <l>Occine: narranti res dabit ipſa fidem.</l>
+               <signed>R. P.</signed>
+            </lg>
+            <lg>
+               <l>
+                  <hi>ZOILVS</hi> deſist (with Curriſh Teeth) to teare</l>
+               <l>This worke of mine. Nor it as (meerly) jeare,</l>
+               <l>Made up of Frands. The outmoſt Barke (indeed)</l>
+               <l>Is Fiction. But Truth dwels in the in-ſide.</l>
+               <l>And what th'Eare ſtrucke not outwardly, That (know)</l>
+               <l>Our Minds moſt inward ſence both Heard and Saw.</l>
+               <l>Ceaſe Criticke then, nor ſing my Booke hath Ly'd</l>
+               <l>That ſtory will find Faith, which Truth doth write.</l>
+               <signed>G. T.</signed>
+            </lg>
+            <p>An Extract out of the 8. Centurie of <hi>Michael Noſtrodamus</hi> his Propheſies, <hi>Stroph.</hi> 71. Printed the yeare, 1603. in the begin<g ref="char:EOLhyphen"/>ning of King <hi>James</hi> his Raigne, Father of King <hi>Charles</hi> late de<g ref="char:EOLhyphen"/>ceaſed, touching the Government now at preſent in <hi>England.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>A Warrier not a King ſhall</hi> England <hi>awe,</hi>
+               </l>
+               <l>
+                  <hi>One Low-Borne ſhall by Force that Empire Sway:</hi>
+               </l>
+               <l>
+                  <hi>Looſe, Faithleſſe, Lawleſſe, ſhall the earth begore,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Time's ſo neare at hand; I ſigh therefore.</hi>
+               </l>
+            </lg>
+            <closer>Glory be to GOD.</closer>
+            <trailer>FIN.</trailer>
+         </div>
+         <div type="anagram">
+            <pb facs="tcp:152699:18" rendition="simple:additions"/>
+            <head>1660.</head>
+            <p>CaroLVs Del GratIa AngLIae ReX SVCCefsIVe ſeCVnDVs RegnabIt ſeCVrVs et tVtVs.</p>
+            <p>
+               <hi>Crouogramma Reſtaurationis</hi> CAROLI <hi>Secundi hoc ipſo Anno</hi> 1660. — <hi>E Numericis Alphabetae Literis ex eodem Diductis.</hi> —</p>
+            <p>CCCCC.D.D.LL.X.VVVVVVVVV.IIIII.</p>
+            <p>1660.</p>
+            <p>
+               <hi>Auſpiciis Adſit Numen vivat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Reverſus.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
